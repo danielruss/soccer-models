@@ -1,0 +1,27 @@
+{
+    "3.0.1":{
+        "soccer_url":"https://danielruss.github.io/soccer-models/s_v3.0.1/model.json",
+        "embedding_model_name":"Xenova/all-MiniLM-L6-v2",
+        "version":"3.0.1",
+        "pooling":"mean"
+    },
+    "3.0.2":{
+        "soccer_url":"https://danielruss.github.io/soccer-models/s_v3.0.2.tfjs/model.json",
+        "embedding_model_name":"Xenova/all-MiniLM-L6-v2",
+        "version":"3.0.2",
+        "pooling":"mean"
+    },
+    "3.0.3":{
+        "soccer_url":"https://danielruss.github.io/soccer-models/s_v3.0.3.tfjs/model.json",
+        "embedding_model_name":"Xenova/GIST-small-Embedding-v0",
+        "version":"3.0.3",
+        "pooling":"cls"
+    },
+    "3.0.4":{
+        "soccer_url":"https://danielruss.github.io/soccer-models/s_v3.0.4.tfjs/model.json",
+        "embedding_model_name":"Xenova/GIST-small-Embedding-v0",
+        "version":"3.0.4",
+        "train_data":"May2024",
+        "pooling":"cls"
+    }
+}
