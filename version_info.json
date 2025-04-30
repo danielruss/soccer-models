@@ -1,4 +1,10 @@
 {
+    "3.0.0":{
+        "soccer_url":"https://danielruss.github.io/soccer-models/SOCcer_v3.0.0.onnx",
+        "embedding_model_name":"Xenova/GIST-small-Embedding-v0",
+        "version":"3.0.0",
+        "pooling":"cls"
+    },
     "3.0.1":{
         "soccer_url":"https://danielruss.github.io/soccer-models/s_v3.0.1/model.json",
         "embedding_model_name":"Xenova/all-MiniLM-L6-v2",
